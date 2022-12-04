@@ -1,5 +1,4 @@
 {
-  "blurb": "Creating a service in ballerina is easy. Now you can add a query parameter and a relative path.",
   "authors": [],
   "contributors": [
     "hemikak",
@@ -19,6 +18,7 @@
       ".meta/reference/echo_service.bal"
     ]
   },
+  "blurb": "Creating a service in ballerina is easy. Now you can add a query parameter and a relative path.",
   "source": "This is an exercise to introduce users to using Ballerina Network interactions",
   "source_url": "https://ballerina.io/learn/by-example/#network-interaction"
 }
